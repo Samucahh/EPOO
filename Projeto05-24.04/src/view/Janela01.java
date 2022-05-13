@@ -10,6 +10,7 @@ public class Janela01 extends JFrame {
 		super("Janela 1"); 
 		setBounds(100, 50, 270, 200);
 		getContentPane().setLayout(null);
+		//Oi
 	}
 
 }
