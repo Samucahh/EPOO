@@ -1,11 +1,11 @@
-package Controle;
+package controle;
 
-import face.LivroFace;
+import face.FaceAutor;
 
 public class Programa {
 	
 	public static void main(String[] args) {
-		LivroFace janLivro = new LivroFace();
+		FaceAutor janLivro = new FaceAutor();
 		janLivro.setVisible(true);		
 	}
 

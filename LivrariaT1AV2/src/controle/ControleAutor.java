@@ -1,5 +1,6 @@
-package dao;
+package controle;
 
+import dao.DaoAutor;
 import domain.Autor;
 
 public class ControleAutor {
